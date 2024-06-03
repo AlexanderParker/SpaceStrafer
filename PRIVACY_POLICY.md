@@ -3,7 +3,7 @@ _Last updated: 3 June 2024_
 
 This Privacy Policy describes how Space Strafer (the "Game," "we," "us," or "our") handles your personal information when you play our mobile game.
 
-##Information We Collect
+## Information We Collect
 
 # a. Google Play Services
 
